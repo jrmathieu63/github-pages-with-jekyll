@@ -1,5 +1,4 @@
-# Welcome to my blog
+# Welcome to my first Git Hub Page
 
-I'm glad you are here. I plan to talk about ...
+**Will be try to create pages using themes and will try to incorporate our own, if possible **
 
-Managing documentation from a Github Page
